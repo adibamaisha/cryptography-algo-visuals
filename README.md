@@ -21,7 +21,7 @@ Export & Analysis: Save charts as high-resolution images, export results as JSON
 
 Outcomes
 
-Cipher-Lab’s helps users:
+This interface helps users:
 
 Understand algorithm performance across speed, memory usage, throughput, and success rates.
 
