@@ -47,7 +47,6 @@ Rich – Generates fancy terminal outputs, tables, or live updates for real-time
 Setup Instructions
 
 Clone the repository and navigate into it:
-git clone https://github.com/your-username/your-repo-name.git
 cd cryptography-algo-visuals
 
 Create a virtual environment:
