@@ -3,7 +3,7 @@ Explore. Benchmark. Understand.
 A Python GUI tool for students, developers, and crypto enthusiasts to explore and compare cryptographic algorithms interactively. The tool provides clear, visual insights into how different algorithms perform under varying conditions, making complex cryptography concepts easy to understand.
 
 Key Features
-
+============
 GUI Interface: Built with Tkinter, featuring tabs for configuration, results, and visualization. Real-time input validation and progress indicators make testing smooth and intuitive.
 
 Algorithm Support: Symmetric algorithms like AES (CBC/GCM) and ChaCha20, and asymmetric algorithms like RSA, ECC, DSA, ECDSA, and post-quantum Kyber.
@@ -15,7 +15,7 @@ Flexible Testing: Configure key sizes, operation modes, elliptic curves, file ty
 Export & Analysis: Save charts as high-resolution images, export results as JSON or CSV, and generate detailed performance reports.
 
 Outcomes
-
+============
 This GUI helps users:
 
 Understand algorithm performance across speed, memory usage, throughput, and success rates.
@@ -27,7 +27,7 @@ Benchmark real-world scenarios for files of different sizes and types.
 This tool provides a hands-on, visual approach to cryptography benchmarking, making it perfect for learning, research, and practical algorithm evaluation.
 
 Libraries Used
-
+============
 Tkinter – Builds the graphical user interface (GUI) for the tool; handles windows, buttons, tabs, forms, and interactive elements.
 
 PyCryptodome – Provides the core implementations for cryptographic algorithms like AES, RSA, DSA, and ECC. Handles encryption, decryption, and key generation.
@@ -45,7 +45,7 @@ Click – (If used) Helps with building command-line interfaces for scripts or a
 Rich – Generates fancy terminal outputs, tables, or live updates for real-time monitoring.
 
 Setup Instructions
-
+============
 Clone the repository and navigate into it:
 cd cryptography-algo-visuals
 
