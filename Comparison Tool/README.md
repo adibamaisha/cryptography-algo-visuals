@@ -25,3 +25,28 @@ See trade-offs between security strength and operational efficiency.
 Benchmark real-world scenarios for files of different sizes and types.
 
 This tool provides a hands-on, visual approach to cryptography benchmarking, making it perfect for learning, research, and practical algorithm evaluation.
+
+Setup Instructions
+
+Clone the repository and navigate into it
+
+git clone https://github.com/your-username/your-repo-name.git
+
+cd cryptography-algo-visuals
+
+Create a virtual environment
+
+py -m venv venv
+
+Activate the virtual environment
+
+For PowerShell: .\venv\Scripts\Activate.ps1
+
+
+Install required dependencies
+
+pip install -r requirements.txt
+
+Run the GUI
+
+python launch_gui.py
