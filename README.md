@@ -26,10 +26,7 @@ Benchmark real-world scenarios for files of different sizes and types.
 
 This tool provides a hands-on, visual approach to cryptography benchmarking, making it perfect for learning, research, and practical algorithm evaluation.
 
-![Detailed Results](results/detailed_results.jpeg)
-![Encryption Time Comparison](results/fileencryption_time_comparision.jpeg)
-![Performance Comparison](results/fileperformance_comparision.jpeg)
-![Results Table](results/results_table.jpeg)
+<img src="results/detailed_results.jpeg" width="300"> <img src="results/fileencryption_time_comparision.jpeg" width="300"> <img src="results/fileperformance_comparision.jpeg" width="300"> <img src="results/results_table.jpeg" width="300">
 
 Libraries Used
 ============
